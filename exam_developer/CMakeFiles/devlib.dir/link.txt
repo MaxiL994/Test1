@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdevlib.a CMakeFiles/devlib.dir/src/developer/developer.c.o CMakeFiles/devlib.dir/src/developer_group/developer_group.c.o
+/usr/bin/ranlib libdevlib.a

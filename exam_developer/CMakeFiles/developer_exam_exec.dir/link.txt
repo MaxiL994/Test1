@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -pedantic -Wl,--dependency-file=CMakeFiles/developer_exam_exec.dir/link.d CMakeFiles/developer_exam_exec.dir/src/main.c.o -o developer_exam_exec  libdevlib.a

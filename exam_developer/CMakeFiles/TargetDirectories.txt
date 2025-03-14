@@ -1,0 +1,4 @@
+/workspaces/Test1/exam_developer/CMakeFiles/devlib.dir
+/workspaces/Test1/exam_developer/CMakeFiles/developer_exam_exec.dir
+/workspaces/Test1/exam_developer/CMakeFiles/edit_cache.dir
+/workspaces/Test1/exam_developer/CMakeFiles/rebuild_cache.dir

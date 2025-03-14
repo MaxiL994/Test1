@@ -18,4 +18,7 @@
     "cmake.configureArgs": ["-DCMAKE_EXPORT_COMPILE_COMMANDS=ON"],
 
     "terminal.integrated.defaultProfile.linux": "bash",
+    "files.associations": {
+        "developer_group.h": "c"
+    },
 }
